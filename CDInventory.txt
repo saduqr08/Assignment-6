@@ -1,0 +1,5 @@
+1,Kendrick Lamar,DAMN
+2,Outkast,ATliens
+3,Jay-z,Reasonable Doubt
+4,Prince,Purple Rain
+5,NAS,King Diease
